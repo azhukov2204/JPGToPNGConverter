@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">JPGToPNGConverter</string>
+    <string name="open_a_jpeg_picture_button_text">Open a JPEG picture</string>
+    <string name="permissions_required_alert_title">Permissions required</string>
+    <string name="permissions_required_alert_message">\"For the application to work correctly, you need permissions: \"</string>
+    <string name="grant_access_button_text">Grant access</string>
+    <string name="negative_button_text">Don\'t give permission</string>
+    <string name="explanation_of_permission">"For the application to work correctly, issue permission in the phone settings: "</string>
+    <string name="close_button_text">Close</string>
+    <string name="save_image_to_png_button_text">Save image to PNG</string>
+    <string name="сonversion_completed_message">Conversion completed successfully</string>
+    <string name="error_read_image_file_message">\"Error with read image file: \"</string>
+    <string name="error_conversion_message">"Error converting to png: "</string>
+    <string name="cancel_conversion_button_text">Cancel conversion</string>
+    <string name="conversion_canceled_message">Conversion canceled</string>
 </resources>
